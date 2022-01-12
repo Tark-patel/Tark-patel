@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tark-patel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web devlopment,App devlopment and AI
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with @partish gamer
 - 📫 How to reach me Just say BEN Stokes
 
